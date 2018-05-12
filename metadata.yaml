@@ -1,25 +1,30 @@
 _repo: The-Essays-of-Arthur-Schopenhauer--the-Art-of-Controversy_10731
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Saunders, T. Bailey (Thomas Bailey)
     aliases:
     - Saunders, Bailey
     - Saunders, Thomas Bailey
-    birthdate: &id001 1860
+    birthdate: 1860
     deathdate: 1928
     gutenberg_agent_id: '4542'
     url: http://www.gutenberg.org/2009/agents/4542
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schopenhauer, Arthur
     birthdate: 1788
-    deathdate: *id001
+    deathdate: 1860
     gutenberg_agent_id: '3648'
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: 'The wisdom of life; Counsels and maxims; Religion: a dialogue, etc.;
   The art of literature; Studies in pessimism; On human nature; The art of controversy.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10731#The-Essays-of-Arthur-Schopenhauer--the-Art-of-Controversy
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
